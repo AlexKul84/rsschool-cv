@@ -1,8 +1,10 @@
 # CV.
 
 =============
+
 **My photo:**
 ![My Avatar](/img/avatar-mini.jpg "my photo")
+
 =============
 
 1. **Name and second name:**
