@@ -1,9 +1,8 @@
 # CV.
 
 =============
-
+**My photo:**
 ![My Avatar](/img/avatar-mini.jpg "my photo")
-
 =============
 
 1. **Name and second name:**
@@ -27,7 +26,9 @@ My goals now are to study at Front and developer and change my profession.
 
 =============
 
-4. **My skills is:**
+4. **My skills:**
+
+My skills is
 - HTML;
 - CSS;
 - Google ADS;
