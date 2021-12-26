@@ -2,7 +2,7 @@
 
 =============
 
-![My Avatar](/img/avatar.JPG "my photo")
+![My Avatar](/img/avatar-mini.jpg "my photo")
 
 =============
 
