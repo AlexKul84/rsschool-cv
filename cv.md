@@ -32,6 +32,7 @@ My goals now are to study at Front and developer and change my profession.
 - CSS;
 - Google ADS;
 - Yandex Direct.
+
 I also have initial level skills in:
 - Webdesign;
 - JavaScript;
