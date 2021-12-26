@@ -2,6 +2,10 @@
 
 =============
 
+![My Avatar](avatar-mini.jpg)
+
+=============
+
 1. **Name and second name:**
 
 Alexey Kulikov.
